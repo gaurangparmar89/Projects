@@ -1,0 +1,1 @@
+Calculate the detour distance between two different rides. given four latitude / longitude pairs, where driver one is traveling from point a to point b and driver two is traveling from point c to point d, write a function (in your language of choice) to calculate the shorter of the detour distances the drivers would need to take to pick-up and drop-off the other driver.
